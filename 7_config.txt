@@ -1,0 +1,3 @@
+router-id 7
+input-ports 7024, 7025
+outputs 1026-8-1, 4026-6-4
